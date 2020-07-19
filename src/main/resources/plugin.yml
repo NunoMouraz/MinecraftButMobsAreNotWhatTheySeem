@@ -1,0 +1,5 @@
+name: MinecraftButMobsAreNotWhatTheySeem
+version: ${project.version}
+main: com.pinoco.minecraftbutmobsarenotwhattheyseem.Main
+api-version: 1.16
+depend: [ProtocolLib]
